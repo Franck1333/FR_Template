@@ -50,16 +50,16 @@ When the project is Downloaded, check your `pi` folder, and you will see the fol
 When you did it, you will have to launch the file called `setup.py` to install the dependencies neccessary for the project with this command line : 
 
 ```
-  sudo python3 setup.py install
+    sudo python3 setup.py install
 ```
 
 There is another way to install all the dependencies needed:
 
-    sudo pip3 install -r requirements.txt
+        sudo pip3 install -r requirements.txt
 
 If some problem during the installation occured, please execute this command :
 ```
-  sudo pip3 install cbpro cmc pandas numpy matplotlib pydub kivy
+    sudo pip3 install cbpro cmc pandas numpy matplotlib pydub kivy
 ```
 
 ## Run
