@@ -5,5 +5,5 @@ serial==0.0.97
 requests==2.20.0
 pyserial==3.2.1
 pydub==0.23.1
-Kivy==1.10.1
 Cython==0.29.5
+Kivy==1.10.1
