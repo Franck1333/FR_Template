@@ -59,7 +59,7 @@ There is another way to install all the dependencies needed:
 
 If some problem during the installation occured, please execute this command :
 ```
-    sudo pip3 install cbpro cmc pandas numpy matplotlib pydub kivy
+    sudo pip3 install cbpro cmc pandas numpy matplotlib pydub kivy cython
 ```
 
 ## Run
