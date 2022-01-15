@@ -31,7 +31,7 @@ A Display (like the Pimoroni 4inch HyperPixel Display --> https://bit.ly/2FVOy5j
 
 Be sure to be Up to date with your OS and Python3 environement with this command line:
 ```
-- sudo apt-get update && sudo apt-get upgrade && sudo pip3 install --upgrade pip
+- sudo apt update -y && sudo apt-get update && sudo apt-get upgrade && sudo pip3 install --upgrade pip
 ```
 
 You can install the *Pimoroni HyperPixel 4* like this :
