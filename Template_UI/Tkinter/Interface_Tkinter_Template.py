@@ -21,7 +21,7 @@ import tkinter.ttk                                          #Blibliotheque perme
 
 #-----------------------------------------------------Localisation de l'emplacement des fichiers necessaires-----------------------------------------------------
 print("\n Bonjour/Bonsoir, ne pas faire fonctionner ce programme en utilisant les droits/commandes administrateur si l'utilisateur n'est pas l'Admin au quel cas le programme ne fonctionnera pas correctement. \n") #Information a lire dans la console
-sys.path.append("/home/"+USERNAME+"/CryptoWatch-Tkinter/Services")  #On indique au systeme ou ce situe le repertoire "Services" dans l'Appareil
+sys.path.append("/home/"+USERNAME+"/FR_Template/Services")  #On indique au systeme ou ce situe le repertoire "Services" dans l'Appareil
 #print(USERNAME)                                            #Test debug
 
 #from nettoyage_du_cache import clear_cache                 #Bibliotheque permettant de nettoyer les fichiers cache PYTHON
