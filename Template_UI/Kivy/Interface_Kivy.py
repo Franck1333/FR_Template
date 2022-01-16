@@ -22,7 +22,7 @@ USERNAME = getpass.getuser()                                #On enregistre le No
 #from pydub.playback import play                             #Bibliotheque permettant de jouer des Sons et Jingles
 
 print("\n Bonjour/Bonsoir, ne pas faire fonctionner ce programme en utilisant les droits/commandes administrateur si l'utilisateur n'est pas l'Admin au quel cas le programme ne fonctionnera pas correctement. \n") #Information a lire dans la console
-sys.path.append("/home/"+USERNAME+"/CryptoWatch-Kivy/Services")  #On indique au systeme ou ce situe le repertoire "Services" dans l'Appareil
+sys.path.append("/home/"+USERNAME+"/FR_Template/Services")  #On indique au systeme ou ce situe le repertoire "Services" dans l'Appareil
 #print(USERNAME)                                            #Test debug
 
 from Infos_Hardware import CPU_usage                        #Obtention de l'utilisation du Processeur par le Systeme d'exploitation et ses programmes autour
