@@ -12,7 +12,7 @@ import sys
 
 #Supprime les fichiers CACHE du language PYTHON
 def clear_cache():
-    print("Les Fichiers CACHES python perimees ont ete supprimer!")
+    print("Les Fichiers CACHES python perimées ont ete supprimer!")
     #print("\n")
     #print("Execution de la commande")
     os.system("sudo find . -name '*.pyc' -delete")
