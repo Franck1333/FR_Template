@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="513d21f1-eb5b-4fec-a106-79ae13870878" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/qodana_code_quality.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services/Infos_Hardware.py" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Exemple_Services/Infos_Hardware.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services/nettoyage_du_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/Services/Exemple_Services/nettoyage_du_cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template_UI/Kivy/Interface_Kivy.kv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template_UI/Kivy/Interface_Kivy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template_UI/Kivy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template_UI/Tkinter/Interface_Tkinter_Template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template_UI/Tkinter/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="513d21f1-eb5b-4fec-a106-79ae13870878" name="Changes" comment="Testing PyCharm.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +15,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Franck1333/FR_Template.git",
-    "accountId": "022a9dd6-29e1-44c4-8271-abba323918b2"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Franck1333/FR_Template.git&quot;,
+    &quot;accountId&quot;: &quot;022a9dd6-29e1-44c4-8271-abba323918b2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -133,6 +125,15 @@
       <option name="presentableId" value="Default" />
       <updated>1718311686787</updated>
     </task>
+    <task id="LOCAL-00001" summary="Testing PyCharm.">
+      <option name="closed" value="true" />
+      <created>1718741966947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718741966947</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +158,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing PyCharm." />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing PyCharm." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

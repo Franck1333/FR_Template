@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<nb3006>
+  <sysid ch="aabe01">E723D4F25F7AC1BD0C8AAD51EFF5DA52</sysid>
+  <nscore ch="ad3ff6">1278</nscore>
+  <cscore ch="8a3ad6">475</cscore>
+  <gscore ch="3d0208">568</gscore>
+  <hscore ch="f67080">37</hscore>
+  <rscore ch="f12df2">198</rscore>
+  <date ch="08c55e">1427921467</date>
+  <os ch="137403">Microsoft Windows 8.1 Professionnel</os>
+  <proctype ch="2952dc">Intel Core i34150   3.50GHz</proctype>
+  <cores ch="a52a32">4</cores>
+  <procspeed ch="ad31c3">3500</procspeed>
+  <sysmem ch="bfa3bb">8120</sysmem>
+  <gputype ch="5ced20">AMD Radeon R9 200 Series</gputype>
+  <floatsavg ch="c3be6a" ch2="d52807">102630412</floatsavg>
+  <intsavg ch="ef8f32" ch2="bc6ac4">427833264</intsavg>
+  <encryptavg ch="26f0db" ch2="dddb3b">1174929</encryptavg>
+  <threedavg ch="8726a1">1543</threedavg>
+  <ramavg ch="7eba11" ch2="b31bac">12571</ramavg>
+  <writeavg ch="c32198" ch2="2a30e1">154</writeavg>
+  <space ch="89b246">297</space>
+</nb3006>
