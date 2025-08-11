@@ -10,7 +10,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='FR_Template',
-    version="1.13.73",
+    version="1.13.0",
     author='Franck Rochat',
     author_email='rochat.franck@gmail.com',
     description='The Starter Pack.',
@@ -18,6 +18,6 @@ setup(
     license='lgpl',
     packages=find_packages(),
     include_package_data=True,
-    install_requires=["Unidecode","Unirest","urllib3","requests","pydub","pyserial","Cython","kivy"], #Get the Dependencies from Pypi (pip install)
+    install_requires=["requests","pyserial","setuptools","psutil"], #Get the Dependencies from Pypi (pip install)
     #dependency_links=[''], #Get the Dependencies via HTTP(s)
 )
